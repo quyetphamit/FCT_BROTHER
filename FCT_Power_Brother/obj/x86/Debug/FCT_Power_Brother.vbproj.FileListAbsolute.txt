@@ -1,0 +1,66 @@
+C:\Users\adminlocal\AppData\Local\Temporary Projects\FCT_Power_Brother\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\adminlocal\AppData\Local\Temporary Projects\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.Control.resources
+C:\Users\adminlocal\AppData\Local\Temporary Projects\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.Resources.resources
+C:\Users\adminlocal\AppData\Local\Temporary Projects\FCT_Power_Brother\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\adminlocal\AppData\Local\Temporary Projects\FCT_Power_Brother\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\adminlocal\AppData\Local\Temporary Projects\FCT_Power_Brother\bin\Debug\FCT_Power_Brother.exe
+C:\Users\adminlocal\AppData\Local\Temporary Projects\FCT_Power_Brother\bin\Debug\FCT_Power_Brother.pdb
+C:\Users\adminlocal\AppData\Local\Temporary Projects\FCT_Power_Brother\bin\Debug\FCT_Power_Brother.xml
+C:\Users\adminlocal\AppData\Local\Temporary Projects\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.exe
+C:\Users\adminlocal\AppData\Local\Temporary Projects\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.xml
+C:\Users\adminlocal\AppData\Local\Temporary Projects\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.pdb
+D:\VB 2010\FCT_Power_Brother\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.exe
+D:\VB 2010\FCT_Power_Brother\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.xml
+D:\VB 2010\FCT_Power_Brother\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.pdb
+D:\VB 2010\FCT_Power_Brother\FCT_Power_Brother\bin\Debug\FCT_Power_Brother.exe
+D:\VB 2010\FCT_Power_Brother\FCT_Power_Brother\bin\Debug\FCT_Power_Brother.pdb
+D:\VB 2010\FCT_Power_Brother\FCT_Power_Brother\bin\Debug\FCT_Power_Brother.xml
+D:\VB 2010\FCT_Power_Brother\FCT_Power_Brother\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VB 2010\FCT_Power_Brother\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.Control.resources
+D:\VB 2010\FCT_Power_Brother\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.Resources.resources
+D:\VB 2010\FCT_Power_Brother\FCT_Power_Brother\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\VB 2010\FCT_Power_Brother\FCT_Power_Brother\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\VB 2010\FCT_Power_Brother\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.Form1.resources
+D:\VB 2010\FCT_Power_Brother HR101\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.exe
+D:\VB 2010\FCT_Power_Brother HR101\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.xml
+D:\VB 2010\FCT_Power_Brother HR101\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.pdb
+D:\VB 2010\FCT_Power_Brother HR101\FCT_Power_Brother\bin\Debug\FCT_Power_Brother.exe
+D:\VB 2010\FCT_Power_Brother HR101\FCT_Power_Brother\bin\Debug\FCT_Power_Brother.pdb
+D:\VB 2010\FCT_Power_Brother HR101\FCT_Power_Brother\bin\Debug\FCT_Power_Brother.xml
+D:\VB 2010\FCT_Power_Brother HR101\FCT_Power_Brother\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VB 2010\FCT_Power_Brother HR101\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.Control.resources
+D:\VB 2010\FCT_Power_Brother HR101\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.Form1.resources
+D:\VB 2010\FCT_Power_Brother HR101\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.Resources.resources
+D:\VB 2010\FCT_Power_Brother HR101\FCT_Power_Brother\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\VB 2010\FCT_Power_Brother HR101\FCT_Power_Brother\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Cuongadn\vb\FCT_Power_Brother HR101\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.exe
+D:\Cuongadn\vb\FCT_Power_Brother HR101\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.xml
+D:\Cuongadn\vb\FCT_Power_Brother HR101\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.pdb
+D:\Cuongadn\vb\FCT_Power_Brother HR101\FCT_Power_Brother\bin\Debug\FCT_Power_Brother.exe
+D:\Cuongadn\vb\FCT_Power_Brother HR101\FCT_Power_Brother\bin\Debug\FCT_Power_Brother.pdb
+D:\Cuongadn\vb\FCT_Power_Brother HR101\FCT_Power_Brother\bin\Debug\FCT_Power_Brother.xml
+D:\Cuongadn\vb\FCT_Power_Brother HR101\FCT_Power_Brother\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Cuongadn\vb\FCT_Power_Brother HR101\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.Control.resources
+D:\Cuongadn\vb\FCT_Power_Brother HR101\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.Form1.resources
+D:\Cuongadn\vb\FCT_Power_Brother HR101\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.Resources.resources
+D:\Cuongadn\vb\FCT_Power_Brother HR101\FCT_Power_Brother\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Cuongadn\vb\FCT_Power_Brother HR101\FCT_Power_Brother\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\VB 2010\part 1\FCT_Power_Brother HR101\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.exe
+D:\VB 2010\part 1\FCT_Power_Brother HR101\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.xml
+D:\VB 2010\part 1\FCT_Power_Brother HR101\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.pdb
+D:\USB-Son\VB 2010\part 1\FCT_Power_Brother HR101\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.exe
+D:\USB-Son\VB 2010\part 1\FCT_Power_Brother HR101\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.xml
+D:\USB-Son\VB 2010\part 1\FCT_Power_Brother HR101\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.pdb
+F:\FCT_Power_Brother_ 2.1\FCT_Power_Brother HR101\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.exe
+F:\FCT_Power_Brother_ 2.1\FCT_Power_Brother HR101\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.xml
+F:\FCT_Power_Brother_ 2.1\FCT_Power_Brother HR101\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.pdb
+D:\Quyet\Brother\FCT_Power_Brother_ 2.1\FCT_Power_Brother HR101\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.exe
+D:\Quyet\Brother\FCT_Power_Brother_ 2.1\FCT_Power_Brother HR101\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.xml
+D:\Quyet\Brother\FCT_Power_Brother_ 2.1\FCT_Power_Brother HR101\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.pdb
+D:\Quyet\Brother\FCT_Power_Brother_ 2.1\FCT_Power_Brother HR101\FCT_Power_Brother\bin\Debug\FCT_Power_Brother.exe
+D:\Quyet\Brother\FCT_Power_Brother_ 2.1\FCT_Power_Brother HR101\FCT_Power_Brother\bin\Debug\FCT_Power_Brother.pdb
+D:\Quyet\Brother\FCT_Power_Brother_ 2.1\FCT_Power_Brother HR101\FCT_Power_Brother\bin\Debug\FCT_Power_Brother.xml
+D:\Quyet\Brother\FCT_Power_Brother_ 2.1\FCT_Power_Brother HR101\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.Control.resources
+D:\Quyet\Brother\FCT_Power_Brother_ 2.1\FCT_Power_Brother HR101\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.Form1.resources
+D:\Quyet\Brother\FCT_Power_Brother_ 2.1\FCT_Power_Brother HR101\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.Resources.resources
+D:\Quyet\Brother\FCT_Power_Brother_ 2.1\FCT_Power_Brother HR101\FCT_Power_Brother\obj\x86\Debug\FCT_Power_Brother.vbproj.GenerateResource.Cache
